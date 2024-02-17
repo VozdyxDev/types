@@ -13,6 +13,8 @@ from vkbottle_types.objects import (
     AccountPushConversationsItem,
     AccountNameRequestStatus,
     AccountPushParamsSettings,
+    UsersUserMin,
+	UsersUserSettingsXtr
 )
 
 
